@@ -1,2 +1,2 @@
-# C25
-Pirate invasion game with boats
+# PRO-C25-SA
+boilerplate code for student activituy
